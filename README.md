@@ -1,6 +1,7 @@
 # nexton-oc
 
-## publish : v1.1.0
+## publish 
+### - v1.1.0
 
 ## palette
 ### - node-red
